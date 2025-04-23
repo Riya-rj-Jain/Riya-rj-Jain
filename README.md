@@ -1,10 +1,18 @@
-👋 Hi, I’m Riya Jain
-💻 Experienced C# and .NET Developer with 3 years of experience in building scalable backend solutions.
-🔎 Skilled in C#, .NET Core, Entity Framework, Angular, and SignalR.
-☁️ Experienced with Azure, Google Cloud Platform (GCP), and AWS for cloud-based solutions.
-📊 Proficient in REST APIs, IdentityServer4, OAuth, and Application Insights.
-📫 Reach me at r27riyajain@gmail.com
-<!---
-Riya-rj-Jain/Riya-rj-Jain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi there, I'm Riya Jain
+
+💻 I'm a passionate .NET Developer with 3+ years of experience in building robust and scalable backend systems using C#, .NET Core, and Entity Framework.
+
+
+🌐 I’m proficient in:
+- Backend Development: C#, .NET Core, REST APIs, Entity Framework  
+- Frontend: Angular  
+- Authentication & Authorization: IdentityServer4, OAuth  
+- Cloud & Monitoring: Azure, GCP, AWS, Application Insights
+
+📊 Whether it's designing API architectures, integrating secure identity flows, or monitoring performance in production, I'm always exploring ways to optimize and automate.
+
+📫 Reach me at: [r27riyajain@gmail.com](mailto:r27riyajain@gmail.com)
+
+---
+
+🛠️ *Check out my repositories below to see what I'm working on!*
